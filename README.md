@@ -6,3 +6,5 @@
 | FreeHosting	| 10 GB               	| Il·limitat 	| Només domini personalitzat | No         	| No     	| Suport per a cPanel, PHP, MySQL    	|
 | AwardSpace 	| 1 GB                	| 5 GB       	| Subdomini / Domini personalitzat | Sí         	| No     	| Suport per a Joomla i WordPress    	|
 | Byet.Host  	| Il·limitat          	| Il·limitat 	| Subdomini / Domini personalitzat | Sí         	| No     	| Suport per a PHP, FTP, MySQL, cPanel   |
+
+Pagina: http://hamzascript.000.pe/
